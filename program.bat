@@ -1,0 +1,1 @@
+STM32_Programmer_CLI -c port=SWD -d build/demo.bin 0x08000000 -s
